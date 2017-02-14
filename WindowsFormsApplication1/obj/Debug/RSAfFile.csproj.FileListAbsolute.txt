@@ -1,0 +1,22 @@
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RSAfFile.csprojResolveAssemblyReference.cache
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RSAfFile.EnkriptimiRSAfrFILE.resources
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RSAfFile.gjuha.Al-res.resources
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RSAfFile.gjuha.En-res.resources
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RSAfFile.Properties.Resources.resources
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RSAfFile.csproj.GenerateResource.Cache
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Siguri\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\obj\Debug\RSAfFile.csprojResolveAssemblyReference.cache
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\obj\Debug\RSAfFile.EnkriptimiRSAfrFILE.resources
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\obj\Debug\RSAfFile.gjuha.Al-res.resources
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\obj\Debug\RSAfFile.gjuha.En-res.resources
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\obj\Debug\RSAfFile.Properties.Resources.resources
+D:\Fakulteti - mesime\viti II\Semestri IV\Siguria e te dhenave\Ushtrime\SIGRUI_RSAfFIle\SIGRUI_RSAfFIle\WindowsFormsApplication1\obj\Debug\RSAfFile.csproj.GenerateResource.Cache
